@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method Exercici4.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The method divisio() is undefined for the type Exercici4
+
+	at Exercici4.main(Exercici4.java:7) [file:/home/users/inf/wiaw2/iaw47647361/Documents/Ex1_1_Exceptions/bin/Exercici4.class]

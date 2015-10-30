@@ -1,0 +1,3 @@
+Uncaught java.lang.ArrayIndexOutOfBoundsException exception in thread "main" in a method Exercici1.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 3
+	at Exercici1.main(Exercici1.java:8) [file:/home/users/inf/wiaw2/iaw47647361/Documents/Ex1_1_Exceptions/bin/Exercici1.class]

@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method Exercici2.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	IOException cannot be resolved to a type
+
+	at Exercici2.main(Exercici2.java:10) [file:/home/users/inf/wiaw2/iaw47647361/Documents/Ex1_1_Exceptions/bin/Exercici2.class]

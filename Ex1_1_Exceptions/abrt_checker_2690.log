@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method prueba.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete ClassBody
+
+	at prueba.main(prueba.java:17) [file:/home/users/inf/wiaw2/iaw47647361/Documents/Ex1_1_Exceptions/bin/prueba.class]
