@@ -1,0 +1,2 @@
+# Exceptions
+Exercicis exceptions
